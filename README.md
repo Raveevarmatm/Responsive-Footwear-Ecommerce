@@ -21,7 +21,7 @@ git clone https://github.com/your-username/footwear-ecommerce.git
 
   #How to view
 
-You can access my portfolio website by visiting . Feel free to explore the content and get in touch!
+You can access my portfolio website by visiting [ https://raveevarmatm.github.io/Responsive-Footwear-Ecommerce/]. Feel free to explore the content and get in touch!
 
 #Screenshots
 ![image](https://github.com/user-attachments/assets/3c258d65-2bea-4d96-9d94-28e8214c60eb)
