@@ -19,6 +19,10 @@ git clone https://github.com/your-username/footwear-ecommerce.git
 - Open the project folder.
 - Launch index.html in your browser to view the website.
 
+  #How to view
+
+You can access my portfolio website by visiting . Feel free to explore the content and get in touch!
+
 #Screenshots
 ![image](https://github.com/user-attachments/assets/3c258d65-2bea-4d96-9d94-28e8214c60eb)
 ![image](https://github.com/user-attachments/assets/65cbcbb0-a493-420c-988e-ebeff48211c4)
